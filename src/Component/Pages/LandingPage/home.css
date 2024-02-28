@@ -1,0 +1,151 @@
+.H {
+  min-width: 100%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.HT {
+  display: flex;
+}
+
+.HT-L {
+  flex: 1;
+}
+.HT-L img {
+  width: 500px;
+  height: 800px;
+}
+
+.HT-R {
+  flex: 2;
+}
+
+.HT-1 {
+}
+.HT1-1 p {
+  font-weight: 700;
+}
+.HT1-2 dl {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  font-weight: 510;
+}
+.HT-2 {
+}
+.HT2-1 {
+  margin-top: 10px;
+}
+.HT2-1 img {
+  height: 550px;
+  width: 600;
+}
+.HT-3 p {
+  margin-top: 20px;
+  font-weight: 510;
+}
+
+.HM {
+  display: flex;
+  flex-direction: column;
+}
+.HM-1 {
+  display: flex;
+  justify-content: center;
+}
+.HM-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.HM-2 img {
+  width: 1400px;
+  height: 500px;
+  margin-top: 40px;
+}
+
+.HM-2 p {
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.Line {
+  min-width: 900px;
+  min-height: 2px;
+  border-radius: 20px;
+  background-color: red;
+  margin: 20px;
+}
+
+.HM-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.HM3-1 p {
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+.HM3-2 {
+}
+.HM3-2-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.HM3-2-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TB {
+  border-right: 2px solid red;
+  margin-right: 5px;
+  padding-right: 5px;
+}
+
+.HF {
+  background-color: #ec3237;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+}
+
+.HF-1 {
+  display: flex;
+  /* justify-content: center; */
+  color: white;
+}
+
+.HF-1 p {
+  padding-top: 15px;
+}
+
+.HF1-1 {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 100%;
+  color: #ec3237;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HF-2 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 15px;
+}
+.HF-3 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 15px;
+}

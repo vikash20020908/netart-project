@@ -1,0 +1,11 @@
+.NM{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 200px;
+}
+
+.LD img{
+   height: 150px;
+   width: 400px;
+}
